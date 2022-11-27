@@ -1,6 +1,6 @@
 ### About me
 
-I’m blockchain enthusiast. 
+Quantum Activist, Bhagavad Gita Enthusiast, Human Brain & DNA/Bio Tech Enthusiast, Blockchain Enthusiast, Kundalini Shakti & Chakra Enthusiast, New World Activist
 
 For what I'm currently working on, check out my pinned repositories!
 
