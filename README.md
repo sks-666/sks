@@ -1,6 +1,6 @@
 ### About me
 
-Ancient Sanskrit, Pseudo/Modern Science🧬, Old & New Technology, Quantum Activist, Bhagavad Gita Enthusiast, Human Brain & DNA/Bio Tech Enthusiast, Blockchain Enthusiast, Kundalini Shakti & Chakra Enthusiast, New World Activist
+Blockchain Enthusiast, Kundalini Shakti & Chakra Enthusiast, New World Activist
 
 For what I'm currently working on, check out my pinned repositories!
 
