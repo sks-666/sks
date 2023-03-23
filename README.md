@@ -31,7 +31,7 @@ Don’t wait for mind-blowing topic or a fulfilling things in the magical way �
 <a href="https://web.archive.org/web/20230219221510/https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Assistant to Owner
 
 
-<a href="mailto:surendrakumarsomai@gmail.com><img src="https://camo.githubusercontent.com/74ba7d2b8261b5ca8d5426b87df7acb8e8ef1e7f6867dc817cc759b2a5f32bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4541343333353f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-EA4335?logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="mailto:surendrakumarsomai@gmail.com"><img src="https://camo.githubusercontent.com/74ba7d2b8261b5ca8d5426b87df7acb8e8ef1e7f6867dc817cc759b2a5f32bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4541343333353f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-EA4335?logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://linkedin.com/in/surendra-somai-813937101/" rel="nofollow"><img src="https://camo.githubusercontent.com/b942fa9b9e41d2b288bae841c856eaa780803809c263ec8a54a7779e1aa068fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 
 
