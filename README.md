@@ -31,9 +31,12 @@ Don’t wait for mind-blowing topic or a fulfilling things in the magical way �
 <a href="https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Operations Manager
 
 
-<a href="mailto:surendrakumarsomai@gmail.com"><img src="https://camo.githubusercontent.com/74ba7d2b8261b5ca8d5426b87df7acb8e8ef1e7f6867dc817cc759b2a5f32bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4541343333353f6c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/Email-EA4335?logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/surendra-somai-813937101/" rel="nofollow"><img src="https://camo.githubusercontent.com/b942fa9b9e41d2b288bae841c856eaa780803809c263ec8a54a7779e1aa068fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<p align="center" dir="auto">
+<br>
+<a href="https://linkedin.com/in/surendra-somai-813937101" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+<a href="mailto:surendrakumarsomai@gmail.com"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 
+</p>
 
 If you use open-source projects, please consider sponsoring my work so that I have the funding and resources to maintain them.
 
