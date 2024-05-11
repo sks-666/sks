@@ -31,7 +31,8 @@ Embark on your journey to transformation and joy—today.
 <strong>TechGuff</strong> – Full Stack &amp; DevOps Engineer<br>
 <a href="https://dearhive.com/" target="_blank" rel="noopener"><strong>Dearhive</strong></a> – Developer<br>
 <a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist<br>
-<a href="https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Operations Manager
+<a href="https://ssomai.com.np/info" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Operations Manager
+<a href="https://github.com/lafa0x9-Hackathon/lafa0x9/" target="_blank" rel="noopener"><strong>Lafa0x9 Hackathon</strong></a> – Founder
 
 
 <p align="center" dir="auto">
