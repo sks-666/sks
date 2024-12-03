@@ -56,7 +56,7 @@ Embark on your journey to transformation and joy—today.
 <a href="https://dearhive.com/" target="_blank" rel="noopener"><strong>Dearhive</strong></a> – Web Developer (2016-2018) <br>
 <a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist (2018-2022) <br>
 <a href="https://ssomai.com.np/info" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Operations Manager (2023 - ongoing) <br>
-<a href="https://github.com/lafa0x9-Hackathon/lafa0x9/" target="_blank" rel="noopener"><strong>Lafa0x9 Hackathon</strong></a> – Event Planner (2024 - ongoing)
+<a href="https://github.com/lafa0x9-Hackathon/lafa0x9/" target="_blank" rel="noopener"><strong>Lafa0x9 Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing)
 
 
 
