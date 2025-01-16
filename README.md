@@ -1,17 +1,16 @@
-
 Hi there 👋
 
-I am founder of GeometryCraft Community - Full Stack Enthusiast. Under this community we organized many workshop, events for good cause. I believed Knowledge is powerful, be careful how you use it.
+I<p>Hello there! 👋 I'm the founder of <strong>GeometryCraft Community</strong>, a vibrant hub for full-stack enthusiasts. We believe that <em>knowledge is powerful</em>, and we strive to use it wisely to make a positive impact.</p>  
 
-Please don’t forget to appreciate with star ⭐️ at my GitHub repo, it will help us more to contribute into Open Source Community
-
-### Why is their sponsorship important? How will you use the funds?
-
-Sponsorship plays a vital role in the success and sustainability of our workshop initiative. By supporting us as a sponsor, you'll help enhance the quality of our workshop content, expand its reach to a wider audience, and ensure accessibility through scholarships for participants facing financial difficulties. The funds will be utilized for various purposes, including content development, guest speakers, marketing and outreach efforts, administrative costs, and providing scholarships. Your contribution directly supports the growth and development of a thriving community dedicated to advancing technology and innovation.
+    <h2>Join Us in Making a Difference</h2>  
+    <p>Through our community, we’ve organized numerous workshops and events aimed at fostering learning and collaboration for a good cause. Your support can help us continue this mission!</p>  
 
 ### Sponsors
 
-Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget to checkout our online network building activities
+    <h3>⭐️ Show Your Support</h3>  
+    <p>If you appreciate our work, please consider giving a star to our GitHub repository. Your acknowledgment helps us contribute even more to the Open Source Community!</p>  
+
+Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget to checkout our network building activities
 
 You can support us using any of the methods below:
 
@@ -20,34 +19,35 @@ You can support us using any of the methods below:
 </a>
 <br>
 
+   <h2>Why Sponsorship Matters</h2>  
+    <p>Sponsorship is crucial for the success and sustainability of our initiatives. By becoming a sponsor, you enable us to:</p>  
+    <ul>  
+        <li><strong>Enhance Workshop Quality:</strong> Improve the content and resources available to participants.</li>  
+        <li><strong>Expand Our Reach:</strong> Bring our workshops to a wider audience.</li>  
+        <li><strong>Ensure Accessibility:</strong> Provide scholarships for participants facing financial challenges.</li>  
+    </ul>  
 
+    <h3>How We Use Your Contributions</h3>  
+    <p>Your generous funding will be allocated to:</p>  
+    <ul>  
+        <li><strong>Content Development:</strong> Creating high-quality materials for our workshops.</li>  
+        <li><strong>Guest Speakers:</strong> Inviting industry experts to share their insights.</li>  
+        <li><strong>Marketing and Outreach:</strong> Promoting our events to reach more people.</li>  
+        <li><strong>Administrative Costs:</strong> Covering operational expenses.</li>  
+        <li><strong>Scholarships:</strong> Supporting those who need financial assistance to participate.</li>  
+    </ul>  
 
-### Discover Your Best Self: Embrace a World of Wellness, Mindfulness, and Joy!
-### Ready to Transform Your Life? 
+    <h2>Explore Our Online Network</h2>  
+    <p>Sponsorship is not just about funding; it’s about building a community. 🌱 Check out our online network-building activities and see how you can get involved!</p>  
 
-### Dive into the Ecstatic World of Tantra and Mindful Living
+    <h2>Transform Your Life with Mindfulness and Joy!</h2>  
+    <p>Are you ready to embrace a world of wellness and mindfulness? Join me on a transformative journey inspired by the teachings of <strong>Tantra</strong> and mindful living.</p>  
 
-### Inspired by Present, Past & Future Self
+    <h3>My Journey</h3>  
+    <p>My exploration of Tantra in Asia, combined with cutting-edge courses at the Open Source Institution, has revolutionized my understanding of life. Now, I’m excited to share these profound insights with you, helping you transform any negativity into bliss and connection.</p>  
 
-Are you on a quest for peace, mindfulness, and vibrant health? Do you yearn to explore the depths of your spirit and unlock a life filled with joy and fulfillment? Let’s embark on this transformative journey together!
-
-Explore the essence of your being in our online gallery, featuring moments of insight and inspiration from past events. Engage with a community dedicated to growth and enlightenment.
-
-### Inspired by the Wisdom of the Ages
-
-Imagine living your most delicious life—savoring the ecstatic bliss of Tantra, nurturing deep wisdom, and cultivating a passionate existence that lights up your world. Whether you're seeking to attract a joyous life or hoping to sustain it, I’m here to guide you every step of the way.
-
-My journey through the profound teachings of Tantra in Asia and cutting-edge courses at Open Source Institution transformed my understanding of mind, body, and spirit. These revelations were so powerful—they revolutionized not just my life, but the way I perceive everything around me. 🔥🔥🔥
-
-Now, it’s your turn. I’m excited to share these life-changing insights with you and help you integrate and transform any numbness, fear, shame, or guilt into bliss, connection, pleasure, pain, and love. Together, we’ll unlock the epic, delicious life you were destined to live.
-
-### Ready to Dive Deeper Into Your Transformation?
-
-Don’t just wait for enlightenment—claim the joyful, exuberant life you deserve! Join me for a journey filled with powerful, practical tips to unleash ridiculous amounts of energy and passion. Discover how to enrich every facet of your life, both within and beyond.
-
-### Are you ready to live the life you've always dreamed of? Let’s make it happen.
-
-Embark on your journey to transformation and joy—today.
+    <h3>Ready to Dive Deeper?</h3>  
+    <p>Don’t wait for enlightenment—claim the joyful life you deserve! Join me for powerful tips and practices to unleash your energy and passion. Together, we can enrich every facet of your life.</p>  
 
 ### Featured Companies
 
@@ -80,3 +80,6 @@ As a contributor, you can make my life as a maintainer easier by:
  - Accepting my code suggestions through GitHub's interface
  - Marking conversations as resolved as you address them
  - (Re-)requesting my review when you're ready for one
+
+<p>Thank you for being part of our community! Together, we can create a brighter future through knowledge and collaboration. 🌍✨</p>  
+
