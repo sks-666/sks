@@ -15,7 +15,7 @@ Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget 
 
 You can support us using any of the methods below:
 
-<a href="https://paypal.me/somaisurendra">
+<a href="https://paypal.me/surensomai">
  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> 
 </a>
 <br>
@@ -60,6 +60,7 @@ Embark on your journey to transformation and joy—today.
 
 
 
+<!--
 <p align="center" dir="auto">
 <b>
 
@@ -67,7 +68,7 @@ Embark on your journey to transformation and joy—today.
 <a href="https://linkedin.com/in/surendra-somai-813937101" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 <a href="mailto:surendrakumarsomai@gmail.com"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 
-</p>
+</p> -->
 
 If you use open-source projects, please consider sponsoring my work so that I have the funding and resources to maintain them.
 
