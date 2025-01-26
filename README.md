@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm the founder of **GeometryCraft **, a vibrant hub for full-stack enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
+I'm the founder of **GeometryCraft**, a vibrant hub for full-stack enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
 
 ## Join Us in Making a Difference  
 
