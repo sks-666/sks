@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm the founder of **GeometryCraft**, a vibrant hub for digital solution enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
+I'm the founder of **SSOMAI**, a vibrant hub for digital solution enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
 
 ## Join Us in Making a Difference  
 
@@ -15,8 +15,12 @@ Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget 
 
 You can support us using any of the methods below:  
 
-<a href="https://paypal.me/surensomai">
- <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> 
+<a href="https://paypal.me/surensomai](https://ssomai.com.np/support-us/" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via SSOMAI Collective Hub
+</a>
+
+<a href="https://paypal.me/surensomai" target="_blank" rel="noopener">
+ <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"> 
 </a>
 
 ## Why Sponsorship Matters  
@@ -34,21 +38,22 @@ Your generous funding will be allocated to:
 - **Scholarships:** Supporting those who need financial assistance to participate.  
 
 ## Explore Our Online Network  
-Sponsorship is not just about funding; it’s about building a community. 🌱 Check out our online network-building activities and see how you can get involved!  
+Group of Enthusiasts to collaborate, share knowledge, and contribute to innovative projects. Connect with developers, discuss emerging technologies, and enhance your skills in a vibrant, global community. Join us to code, learn, and grow together, it’s about building a community. 🌱 Check out our online network-building activities and see how you can get involved!  
 
 ## Transform Your Life with Mindfulness and Joy!  
 Are you ready to embrace a world of wellness and mindfulness? Join me on a transformative journey inspired by the teachings of **Tantra** and mindful living.  
 
 ### My Journey  
 My exploration of Tantra in Asia, combined with cutting-edge courses at the Open Source Institution, has revolutionized my understanding of life. Now, I’m excited to share these profound insights with you, helping you transform any negativity into bliss and connection.  
+
 ### Featured Companies
 
 <strong>Cityphone</strong> – Programmer (2010-2014) <br>
 <strong>TechGuff</strong> – Full Stack Engineer (2015-2016) <br> 
 <a href="https://dearhive.com/" target="_blank" rel="noopener"><strong>Dearhive</strong></a> – Web Developer (2016-2018) <br>
 <a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist (2018-2022) <br>
-<a href="https://ssomai.com.np/info" target="_blank" rel="noopener"><strong>SSO-M-AI NEPAL</strong></a> – Operations Manager (2023 - ongoing) <br>
-<a href="https://github.com/lafa0x9-Hackathon/lafa0x9/" target="_blank" rel="noopener"><strong>Lafa0x9 Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing)
+<a href="https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSOMAI HUB</strong></a> – Operations Manager (2023 - ongoing | Seasonal) <br>
+<a href="https://github.com/lafa-Hackathon/0x9/" target="_blank" rel="noopener"><strong>Lafa0x9 Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing | Seasonal)
 
 
 
@@ -57,8 +62,8 @@ My exploration of Tantra in Asia, combined with cutting-edge courses at the Open
 <b>
 
 
-<a href="https://linkedin.com/in/surendra-somai-813937101" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
-<a href="mailto:surendrakumarsomai@gmail.com"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+<a href="https://linkedin.com/in/surendra-somai-813937101" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+<a href="mailto:surendrakumarsomai@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
 
 </p> -->
 
