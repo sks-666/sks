@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm the founder of **SSOMAI**, a vibrant hub for digital solution enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
+A vibrant hub for digital solution enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
 
 ## Join Us in Making a Difference  
 
