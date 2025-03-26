@@ -50,7 +50,7 @@ My exploration of Tantra in Asia, combined with cutting-edge courses at the Open
 <a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist (2018-2022) <br>
 <a href="https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSOMAI HUB</strong></a> – Operations Manager (2023 - ongoing | Seasonal) <br>
 <a href="https://github.com/lafa-Hackathon/0x9/" target="_blank" rel="noopener"><strong>Lafa Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing | Seasonal) <br>
-<a href="#" target="_blank" rel="noopener"><strong>KRIP TECH</strong></a> – COO (2025 - ongoing | Freelancer) <br>
+<a href="https://kripai.com" target="_blank" rel="noopener"><strong>KRIP TECH</strong></a> – COO (2025 - ongoing | Freelancer) <br>
 
 
 
